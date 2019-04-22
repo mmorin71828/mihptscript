@@ -1,1 +1,1 @@
-# MiHpt's EC data processing script for stratigraghy classification
+### MiHpt's EC data processing script for stratigraghy classification
